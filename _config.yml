@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Weiming Wu/Personal HomePage"
+title                    : "Weiming Wu's Personal HomePage"
 title_separator          : "-"
 name                     : &name "Weiming Wu"
 description              : &description "Nothing"

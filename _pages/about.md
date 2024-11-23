@@ -8,7 +8,7 @@ redirect_from:
 ---
 
   
-I earned my bachelor’s degree at School of Automation Science and Engineering of [South China University of Technology](https://www.scut.edu.cn/new/), and now I'm pursuing a master’s degree at School of Automation Science and Engineering of [South China University of Technology](https://www.scut.edu.cn/new/), under the guidance of Prof. [Wenxiong Kang](https://www.scholat.com/auwxkang).  
+I earned my bachelor’s degree at School of Automation Science and Engineering of South China University of Technology, and now I'm pursuing a master’s degree at School of Automation Science and Engineering of South China University of Technology, under the guidance of Prof. [Wenxiong Kang](https://www.scholat.com/auwxkang).  
 
 I am committed to research work on Virtual Tryon, Pointcloud-based gait identification and Object detection, etc.
 I'm open to discussing other potential directions. Please feel free to get in touch with me!

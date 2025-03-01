@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* 2024.07 - now, Intern at VIPShop.
+* 2024.07 - 2025.02, Intern at VIPShop.
   * Working on the Virtual Try-On project.
 
 Publications

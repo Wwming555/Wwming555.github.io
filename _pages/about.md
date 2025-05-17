@@ -27,7 +27,7 @@ Work experience
 
 Publications
 ======
-* S. Yu, **W. Wu**, et al., "Human Identification at a Distance: Challenges, Methods and Results on the Competition HID 2024," 2024 IEEE International Joint Conference on Biometrics (IJCB), Buffalo, NY, USA. （CCF-C）
+* S. Yu, **W. Wu**, et al., "Human Identification at a Distance: Challenges, Methods and Results on the Competition HID 2024," 2024 IEEE International Joint Conference on Biometrics (IJCB), Buffalo, NY, USA. (CCF-C)
 * **W. Wu**, K. Liu, M. S. Shakeel, X. Liao, M. Zeng and W. Kang, "A Highly Precise and Lightweight Detection Model for Water and Oil Leakage Detection," 2023 International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), Shenzhen, China. (EI)
 
 Honors and Awards
